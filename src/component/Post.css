@@ -1,0 +1,19 @@
+.mainDv{
+    margin-left: 500px;
+    margin-right: 400px;
+}
+.card{
+    height:60vh;
+    text-align: center;
+    background-color: blueviolet;
+    color:whitesmoke;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+
+.photo{
+    margin-top:20px;
+    height:30vh;
+    border-radius: 75px;
+}
+
